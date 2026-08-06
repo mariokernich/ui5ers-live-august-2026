@@ -12,8 +12,8 @@ When people talk about UI5 development, they usually mean...
 
 <div class="mt-6 p-4 bg-blue-500 bg-opacity-10 rounded-lg border-l-4 border-blue-500">
 
-**A plugin runs inside the Fiori shell** — activated once, applies to
-<b>all</b> apps: your own, SAP standard, even third-party UI5 apps.
+**A plugin runs inside the Fiori shell** — activated once, it can apply to
+<b>all</b> apps and the FLP home page itself: your own, SAP standard, even third-party UI5 apps.
 
 </div>
 
